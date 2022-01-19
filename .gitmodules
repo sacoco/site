@@ -1,0 +1,3 @@
+[submodule "sacoco/themes/awesome-identity"]
+	path = sacoco/themes/awesome-identity
+	url = https://github.com/posquit0/hugo-awesome-identity
